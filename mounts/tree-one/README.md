@@ -35,12 +35,13 @@ The mounting system is constructed from PVC conduit and fittings. Each section h
 | 1 1/4" to 3/4" Reducer        | 1        | $2     |
 | PVC Cement                    | 1        | $5     |
 | 8x11 Screws                   | Several  | $2     |
+| 10x12 Scres                   | 2        | $1     |
 | Bolt and Nut                  | 1        | $1     |
 | Small Pipe Clamps             | 4        | $8     |
 | Zip Ties                      | 2        | $1     |
 | 50' Paracord                  | 1        | $5     |
 
-**Total: $109 CAD**
+**Total: $110 CAD**
 
 ### Build Notes
 
@@ -56,7 +57,7 @@ The installation required raising the system to roughly **15 meters (50 feet)** 
 
 - The tree was free-climbed to the mounting point (not a recommended method; see safety note below).
 - At the installation height, climbing straps were attached at **two separate anchor points** to provide redundancy and stability.
-- The **Mounting Arm** was lashed securely to the tree trunk, then reinforced with a single screw. Research suggested that a single screw causes less long-term harm to the tree compared to tightly clamped metal bands, which risk continuous bark damage.
+- The **Mounting Arm** was lashed securely to the tree trunk, then reinforced with two screws. Research suggested that two screws causes less long-term harm to the tree compared to tightly clamped metal bands, which risk continuous bark damage.
 - The **Extension Arm** rested on a sturdy branch, reducing sag and distributing weight. It was also lashed in place with paracord for stability.
 
 ### Safety Note
@@ -82,3 +83,13 @@ The installation succeeded:
 This design also reduced the time spent working at height, limiting risk while achieving a durable, stable, and serviceable installation.
 
 ![View from the sky](media/from-the-sky.jpg)
+
+# Detailed Photos
+
+![Antenna mount](media/antenna.jpg)
+![Radio mount](media/radio.jpg)
+![Arm and Elbow](media/elbow.jpg)
+![Lashing One](media/lashing1.jpg)
+![Lashing Two](media/lashing2.jpg)
+![Lashing One](media/lashing3.jpg)
+
