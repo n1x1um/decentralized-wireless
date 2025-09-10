@@ -67,6 +67,9 @@ This description is not a safety guide. Free-climbing and improvised installatio
 
 The current design has a functional drawback: the **Maintenance Section (#2)** extends too far from the trunk, making servicing awkward. A future revision will move this section closer to the trunk for easier access.
 
+![Work in Progress](media/in-progress.jpg)
+
+
 # Results
 
 The installation succeeded:
