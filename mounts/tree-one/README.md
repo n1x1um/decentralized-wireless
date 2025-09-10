@@ -2,7 +2,7 @@
 
 This document describes the design, build, and installation of the `e7her.nod3` MeshCore repeater mounting bracket. The deployment took place in Kanata, Ontario—a region with rugged, hilly terrain and dense vegetation. These natural conditions make reliable wireless communication challenging, as both elevation and line-of-sight are difficult to achieve. The required installation location introduced additional challenges: it sits at an elevation of −122 meters, for reference the nearby shores of the Ottawa River sit at approximately +134 meters. This installation was engineered to overcome those challenges by leveraging height from a tree-mounted structure.
 
-![View from the ground](photos/from-the-ground.png)
+![View from the ground](media/from-the-ground.jpg)
 
 # Acknowledgment
 
@@ -14,7 +14,7 @@ A special thanks goes to **MrAlderson** for designing and building the MeshCore 
 
 The mounting system is constructed from PVC conduit and fittings. Each section has a specific role:
 
-![Mount Overview](photos/mount-overview.jpg)
+![Mount Overview](media/mount-overview.jpg)
 
 | Section | Name                | Purpose                                                                 |
 |--|--|-|
