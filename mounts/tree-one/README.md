@@ -77,3 +77,5 @@ The installation succeeded:
 - Environmental impact was minimized by limiting bark damage and avoiding excessive cutting.
 
 This design also reduced the time spent working at height, limiting risk while achieving a durable, stable, and serviceable installation.
+
+![View from the sky](media/from-the-sky.jpg)
