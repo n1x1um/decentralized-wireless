@@ -6,7 +6,7 @@ This document describes the design, build, and installation of the `e7her.nod3` 
 
 # Acknowledgment
 
-A special thanks goes to **MrAlderson** for designing and building the MeshCore radio used in this project. His contribution provided a robust foundation for experimentation and reliable performance in difficult environments like this one.
+A special thanks goes to [**MrAlderson**](https://github.com/mraldersonn) for designing and building the MeshCore radio used in this project. His contribution provided a robust foundation for experimentation and reliable performance in difficult environments like this one.
 
 # Mount Design
 
