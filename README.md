@@ -14,8 +14,10 @@ A special thanks goes to **MrAlderson** for designing and building the MeshCore 
 
 The mounting system is constructed from PVC conduit and fittings. Each section has a specific role:
 
+![Mount Overview](photos/mount-overview.jpg)
+
 | Section | Name                | Purpose                                                                 |
-|||-|
+|--|--|-|
 | #1      | **Mounting Arm**    | Attached directly to the tree trunk to anchor the system.               |
 | #2      | **Maintenance Section** | Acts as a break point, allowing the radio to be serviced without detaching the main Mounting Arm. |
 | #3      | **Extension Arm**   | Extends the solar panel and antenna past the tree canopy for clear exposure. |
